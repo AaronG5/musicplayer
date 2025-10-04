@@ -1,0 +1,11 @@
+build/
+
+*.user
+*.pro.user
+*.creator.*
+CMakeLists.txt.user
+CMakeLists.txt.autosave
+.qtcreator/
+
+.DS_Store
+Thumbs.db
